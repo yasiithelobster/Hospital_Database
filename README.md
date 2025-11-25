@@ -2,8 +2,6 @@
 
 A fully structured relational database system designed for managing core hospital operations.  
 This project includes SQL scripts for creating tables, inserting sample data, defining relationships, and executing analytical queries.  
-Developed as part of my first-year coursework for the **BSc (Hons) Artificial Intelligence and Data Science** degree at the **Informatics Institute of Technology (IIT)**.
-
 ---
 
 ## ✨ Features
